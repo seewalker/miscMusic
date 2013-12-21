@@ -1,0 +1,6 @@
+                                  Content List
+
+0. Strotha Tynhe, composed by Aphex Twin, is transcribed with the Haskell
+programming language and the Haskore DSL. The source code file,
+StrothaTynhe.hs, encodes the music structure and uses Haskore's
+midi-support to generate a ready-to-listen midi file.
